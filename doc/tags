@@ -1,0 +1,5 @@
+Dbt.disable()	dbt-nvim.txt	/*Dbt.disable()*
+Dbt.enable()	dbt-nvim.txt	/*Dbt.enable()*
+Dbt.options	dbt-nvim.txt	/*Dbt.options*
+Dbt.setup()	dbt-nvim.txt	/*Dbt.setup()*
+Dbt.toggle()	dbt-nvim.txt	/*Dbt.toggle()*
